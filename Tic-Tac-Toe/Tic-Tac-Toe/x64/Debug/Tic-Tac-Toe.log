@@ -1,0 +1,9 @@
+﻿  AI.cpp
+E:\SFML\Tic-Tac-Toe\Tic-Tac-Toe\AI.cpp(76,14): warning C4101: 'error': unreferenced local variable
+  GameOverState.cpp
+  GameState.cpp
+  MainMenuState.cpp
+E:\SFML\Tic-Tac-Toe\Tic-Tac-Toe\MainMenuState.cpp(34,127): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  PauseState.cpp
+  Generating Code...
+  Tic-Tac-Toe.vcxproj -> E:\SFML\Tic-Tac-Toe\x64\Debug\Tic-Tac-Toe.exe
